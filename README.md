@@ -1,4 +1,4 @@
-# Rust Mini Shell
+# Bash-RS
 
 A lightweight, educational **command-line shell** written in Rust, implementing core Unix-like commands with a clean and extensible design.
 
@@ -59,7 +59,7 @@ cargo build --release
 Then run the binary:
 
 ```bash
-./target/release/rust-mini-shell
+./target/release/bash-rs
 ```
 
 ---
